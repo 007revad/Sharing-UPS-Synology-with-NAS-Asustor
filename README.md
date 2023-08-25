@@ -208,7 +208,7 @@ The script: [partage-UPS-Synology-avec-NAS-Asustor.sh](https://raw.githubusercon
    MONITOR asustor@192.168.2.200 1 admin 1111 slave
    ```
    
-   à :
+   to:
    
    ```EditorConfig
    MONITOR ups@192.168.2.200 1 monuser secret slave
