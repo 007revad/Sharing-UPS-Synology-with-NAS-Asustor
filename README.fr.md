@@ -5,6 +5,8 @@
 > **Objectif**<br>
 > Utiliser, depuis un NAS Asustor, un onduleur en "slave" (UPS) qui est connecté en USB (donc en maître) sur un NAS Synology avec DSM 7.1.x, donc en maître sur le Synology.
 
+**Note:** ADM 5.1.0.RMG1 inclut désormais une option pour modifier le nom, le nom d'utilisateur et le mot de passe du réseau UPS, permettant ainsi les connexions aux UPS connectés à d'autres appareils, rendant ce script inutile.
+
 <br>
 
 > **Note**
