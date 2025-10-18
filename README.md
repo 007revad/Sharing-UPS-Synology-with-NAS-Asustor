@@ -5,6 +5,8 @@ English | [French](README.fr.md)
 > **Objective**<br>
 > Use, from an Asustor NAS, a "slave" inverter (UPS) which is connected via USB (therefore as master) on a Synology NAS with DSM 7.1.x, therefore as master on the Synology.
 
+**Note:** ADM 5.1.0.RMG1 now includes an option to changee the network UPS name, username and password, allowing connections to UPSs connected to other devices, making this script unnecessary.
+
 <br>
 
 > **Note**
